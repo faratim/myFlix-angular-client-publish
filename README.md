@@ -4,6 +4,7 @@ This is the client-side for my FavMovie application, build with Angular. For the
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
 ## Key features
+
 - The app display a welcome view where use can chose to login or sign up.
 - After sign up for the first time, user can login with username and password.
 - Once logged in, the movie view will be shown, which contains a list of all the movies.
@@ -12,15 +13,18 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - User can navigate to the profile view through navbar. In profile view, user can view and update the profile info and delete account.
 
 ## Technologies used
+
 TypeScript, Angular, TypeDoc
 
 ## Deployed application
+
 [FavMovie Angular](https://schen888.github.io/favMovie-Angular-client/welcome)
 
 ## [Application documentation](https://github.com/schen888/favMovie-Angular-client/tree/master/docs)
+
 Documentation was generated via TypeDoc.
 
-## 
+##
 
 ## Development server
 
@@ -47,6 +51,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## App showcase
-<img alt="A screenshot of the welcome-page in FavMovie App" src="/img/Screenshot1.png" width="100%">
+
+<!-- <img alt="A screenshot of the welcome-page in FavMovie App" src="/img/Screenshot1.png" width="100%">
 <img alt="A screenshot of the movie-page in FavMovie App" src="/img/Screenshot4.png" width="100%">
-<img alt="A screenshot of the profile-page in FavMovie App" src="/img/Screenshot3.png" width="100%">
+<img alt="A screenshot of the profile-page in FavMovie App" src="/img/Screenshot3.png" width="100%"> -->
